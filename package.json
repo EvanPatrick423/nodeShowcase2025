@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/EvanPatrick423/nodeShowcase2025#readme",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "connect-livereload": "^0.6.1",
     "express": "^4.21.2",
     "livereload": "^0.9.3",
