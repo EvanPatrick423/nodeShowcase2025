@@ -1,0 +1,25 @@
+{
+  "name": "showcase2025",
+  "version": "1.0.0",
+  "description": "Updated version of showcase site for 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanPatrick423/nodeShowcase2025.git"
+  },
+  "author": "Evan Patrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvanPatrick423/nodeShowcase2025/issues"
+  },
+  "homepage": "https://github.com/EvanPatrick423/nodeShowcase2025#readme",
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "express": "^4.21.2",
+    "livereload": "^0.9.3",
+    "typescript": "^5.8.2"
+  }
+}
